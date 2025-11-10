@@ -1,2 +1,5 @@
-![Ảnh 1](images/Screenshot(736).png)
-![Ảnh 2](images/Screenshot(737).png)
+## Screenshots
+<div>
+<img src="./Screenshot(736).png" title="Student List Search" width="300"/>
+<img src="./Screenshot(737).png" title="Student List Search" width="300"/>
+</div>
